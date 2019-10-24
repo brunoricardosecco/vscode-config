@@ -85,44 +85,44 @@
 "powermode.enableStatusBarComboCounter": false,
 }
 
-##extensions
+## extensions
 
-####Beautify
+#### Beautify
 
-####Bracket Pair Colorizer
+#### Bracket Pair Colorizer
 
-####Colorize
+#### Colorize
 
-####Custom CSS and JS Loader
+#### Custom CSS and JS Loader
 
-####Debugger for Chrome
+#### Debugger for Chrome
 
-####Docker
+#### Docker
 
-####DotENV
+#### DotENV
 
-####Dracula Official
+#### Dracula Official
 
-####EditorConfig for VS Code
+#### EditorConfig for VS Code
 
-####ESLint
+#### ESLint
 
-####GiLens
+#### GiLens
 
-####Live Server
+#### Live Server
 
-####Live Share
+#### Live Share
 
-####Material Icon Theme
+#### Material Icon Theme
 
-####Power Mode
+#### Power Mode
 
-####Prettier
+#### Prettier
 
-####Rocketseat React Native
+#### Rocketseat React Native
 
-####Rocketseat ReactJS
+#### Rocketseat ReactJS
 
-####SyntWave '84
+#### SyntWave '84
 
-####Visual Studio IntelliCode
+#### Visual Studio IntelliCode
